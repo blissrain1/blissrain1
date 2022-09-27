@@ -1,7 +1,7 @@
 # sobre mim
 
-- 👋 Ola, meu nome e @Miguel
-- 👍 meu e-mail de contato e miguel.paula@escola.pr.gov.br
+- 👋 Ola, meu nome e **@Miguel**
+- 👍 meu e-mail de contato e [email](miguel.paula@escola.pr.gov.br)
 - 👀 eu estou interessado em aprender a progamar novas linguagens
 - 🌱 eu estou aprendendo a progamar recentemente a linguagem de java script e scratch
 
